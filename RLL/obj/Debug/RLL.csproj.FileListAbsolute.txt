@@ -1,0 +1,5 @@
+D:\visual studio 2010\Projects\医院管理系统\RLL\bin\Debug\RLL.dll
+D:\visual studio 2010\Projects\医院管理系统\RLL\bin\Debug\RLL.pdb
+D:\visual studio 2010\Projects\医院管理系统\RLL\obj\Debug\ResolveAssemblyReference.cache
+D:\visual studio 2010\Projects\医院管理系统\RLL\obj\Debug\RLL.dll
+D:\visual studio 2010\Projects\医院管理系统\RLL\obj\Debug\RLL.pdb

@@ -1,0 +1,105 @@
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\bin\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\bin\Debug\BLL.pdb
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\obj\Debug\BLL.dll
+C:\Documents and Settings\Administrator\桌面\医院管理系统\RLL\obj\Debug\BLL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\bin\Debug\BLL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\bin\Debug\BLL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\bin\Debug\DAL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\bin\Debug\Model.dll
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\bin\Debug\DAL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\bin\Debug\Model.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\obj\Debug\BLL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院管理系统\RLL\obj\Debug\BLL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\bin\Debug\BLL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\bin\Debug\BLL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\bin\Debug\DAL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\bin\Debug\Model.dll
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\bin\Debug\DAL.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\bin\Debug\Model.pdb
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\obj\Debug\BLL.dll
+C:\Users\TsukiHiBoshi\Desktop\医院\医院管理系统\RLL\obj\Debug\BLL.pdb
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\bin\Debug\BLL.dll
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\bin\Debug\BLL.pdb
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\bin\Debug\DAL.dll
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\bin\Debug\Model.dll
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\bin\Debug\DAL.pdb
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\bin\Debug\Model.pdb
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\obj\Debug\ResolveAssemblyReference.cache
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\obj\Debug\BLL.dll
+E:\廖义德-陈小松-鞠志伟\医院管理系统\RLL\obj\Debug\BLL.pdb
+F:\Projects\医院管理系统\医院管理系统\RLL\bin\Debug\BLL.dll
+F:\Projects\医院管理系统\医院管理系统\RLL\bin\Debug\BLL.pdb
+F:\Projects\医院管理系统\医院管理系统\RLL\bin\Debug\DAL.dll
+F:\Projects\医院管理系统\医院管理系统\RLL\bin\Debug\Model.dll
+F:\Projects\医院管理系统\医院管理系统\RLL\bin\Debug\DAL.pdb
+F:\Projects\医院管理系统\医院管理系统\RLL\bin\Debug\Model.pdb
+F:\Projects\医院管理系统\医院管理系统\RLL\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\医院管理系统\医院管理系统\RLL\obj\Debug\BLL.dll
+F:\Projects\医院管理系统\医院管理系统\RLL\obj\Debug\BLL.pdb
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\bin\Debug\BLL.dll
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\bin\Debug\BLL.pdb
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\bin\Debug\DAL.dll
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\bin\Debug\Model.dll
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\bin\Debug\DAL.pdb
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\bin\Debug\Model.pdb
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\obj\Debug\BLL.dll
+E:\项目\wwb调试\审核后台源码\医院管理系统_ae128670-cee6-40ad-8767-8a3d4afa567a\医院管理系统\医院管理系统\RLL\obj\Debug\BLL.pdb
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\bin\Debug\BLL.dll
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\bin\Debug\BLL.pdb
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\bin\Debug\DAL.dll
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\bin\Debug\Model.dll
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\bin\Debug\DAL.pdb
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\bin\Debug\Model.pdb
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\obj\Debug\BLL.dll
+E:\软件开发项目\免费供学习源码\Janson医院管理系统源码\RLL\obj\Debug\BLL.pdb
+E:\医院管理系统源码\RLL\bin\Debug\BLL.dll
+E:\医院管理系统源码\RLL\bin\Debug\BLL.pdb
+E:\医院管理系统源码\RLL\bin\Debug\DAL.dll
+E:\医院管理系统源码\RLL\bin\Debug\Model.dll
+E:\医院管理系统源码\RLL\bin\Debug\DAL.pdb
+E:\医院管理系统源码\RLL\bin\Debug\Model.pdb
+E:\医院管理系统源码\RLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\医院管理系统源码\RLL\obj\Debug\BLL.dll
+E:\医院管理系统源码\RLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\[cc01]\[cc01]\医院管理系统源码\医院管理系统源码\RLL\obj\Debug\BLL.pdb
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\BLL.dll
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\BLL.pdb
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\DAL.dll
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\Model.dll
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\DAL.pdb
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\Model.pdb
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.dll
+C:\Users\Admin\Desktop\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.pdb
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\BLL.dll
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\BLL.pdb
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\DAL.dll
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\Model.dll
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\DAL.pdb
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\bin\Debug\Model.pdb
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.csproj.CopyComplete
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.dll
+D:\project\.net-winform\医院门诊管理系统\医院管理系统源码\RLL\obj\Debug\BLL.pdb
